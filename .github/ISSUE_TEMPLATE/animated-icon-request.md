@@ -3,7 +3,7 @@ name: Animated icon request
 about: Suggest an icon to be included in Lordicon Library.
 title: 'New icon request '
 labels: enhancement
-assignees: tomwilusz
+assignees: ''
 
 ---
 
